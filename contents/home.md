@@ -1,8 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+<!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+我目前就读于浙江大学物理学院，即将前往中科院理论物理研究所攻读研究生。
 
 #### Contact
 
