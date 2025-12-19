@@ -14,3 +14,5 @@
 
 - X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
+- Zheng, Y., <strong>Tang, X.</strong>, Lin, H., & He, L. (2025). 一种二维磁性格点振动实验装置及方法 (A Two-dimensional Magnetic Lattice Vibration Experimental Device and Method). 中国发明专利，专利号 ZL 2024 1 1874474.9. 授权公告号：CN 119314386 B. 授权公告日：2025年3月18日.
+
