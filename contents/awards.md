@@ -1,16 +1,15 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+* 丘成桐大学生数学竞赛团体赛，笔试优胜奖 (2025年5月)
+* 丘成桐大学生数学竞赛数学物理方向，笔试优胜奖 (2025年5月)
+* 浙江大学"三好杯"本科生乒乓球比赛，男子单打第三名 (2024年12月)
+* 第十六届全国大学生数学竞赛 (非数学类)，浙江省一等奖 (2024年11月)
+* 全国大学生数学建模竞赛，浙江省二等奖 (2024年10月)
+* 浙江大学第二十二届大学生数学建模竞赛，一等奖 (2024年6月)
+* 浙江大学第十届大学生物理学术竞赛，三等奖 (2024年6月)
+* 浙江省大学生物理创新 (理论) 竞赛，一等奖 (2023年12月)
+* 浙江省大学生高等数学 (微积分) 竞赛 (工学类)，二等奖 (2023年8月)
+* 浙江大学"三好杯"本科生乒乓球比赛，男子团体第二名 (2022年12月)
+* 全国高中生物理奥林匹克竞赛，浙江省三等奖 (2021年)
+* 浙江省中小学生乒乓球排位积分赛，第60名 (2016年)
+* 浙江省杭州市富阳区中小学生乒乓球比赛，团体第一名 (2016年)
